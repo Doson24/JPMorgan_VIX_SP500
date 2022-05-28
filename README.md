@@ -1,7 +1,9 @@
 # JPMorgan_VIX_SP500
 
 Реализация стратегии JPMorgan VIX/S&P500
-![image](https://user-images.githubusercontent.com/81966005/170640498-91544199-0c04-4169-8763-0235c8a39100.png)
+![image](https://user-images.githubusercontent.com/81966005/170640498-91544199-0c04-4169-8763-0235c8a39100.png)  
+
+Внизу отображены сигналы на покупку и их доходности S&P500 за полгода  
 
 Результат от 28.05.2022  
 ![img.png](img.png)  
